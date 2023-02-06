@@ -1,0 +1,29 @@
+.bPane-welcome {
+    -fx-background-color: #333;
+    -fx-background-image: url("https://i.pinimg.com/originals/37/7e/0c/377e0c52c7b63b5107ed933c1e729ca6.jpg");
+}
+
+.register-btn {
+    -fx-background-color: #388E3C;
+    -fx-cursor: hand;
+}
+
+.login-btn {
+    -fx-background-color: #1976D2;
+    -fx-cursor: hand;
+}
+
+.global-homeBtn {
+    -fx-background-color: #f39c12;
+    -fx-cursor: hand;
+}
+
+.global-loginBtn {
+    -fx-background-color: #f39c12;
+    -fx-cursor: hand;
+}
+
+.global-registerBtn {
+    -fx-background-color: #f39c12;
+    -fx-cursor: hand;
+}
